@@ -7,6 +7,8 @@ public class GitTest {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Git and SVN are fun, again");
+		
+		System.out.println("Al master");
 	}
 
 }
