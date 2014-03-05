@@ -9,6 +9,7 @@ public class GitTest {
 		System.out.println("Git and SVN are fun, again");
 		
 		System.out.println("Al master");
+		System.out.println("Otro cambio mas");
 	}
 
 }
