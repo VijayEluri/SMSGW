@@ -12,6 +12,8 @@ public class GitTest {
 		System.out.println("Otro cambio mas");
 		
 		System.out.println("nuevo branch");
+		
+		System.out.println("nuevo branch 2");
 	}
 
 }
